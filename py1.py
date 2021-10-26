@@ -2,7 +2,7 @@
 #ptvsd.enable_attach()
 #ptvsd.wait_for_attach()
 #ptvsd.break_into_debugger()
-import RPi.GPIO as GPIO
+ 
 from ctypes import *
 import time
 def pyTestPrint():
